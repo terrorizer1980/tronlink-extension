@@ -48,14 +48,17 @@
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-react-app": "^3.1.1",
-    "babel-runtime": "6.26.0"
+    "babel-runtime": "6.26.0",
+    "@snyk/protect": "latest"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "lint": "npx eslint . --fix"
+    "lint": "npx eslint . --fix",
+    "prepare": "yarn run snyk-protect",
+    "snyk-protect": "snyk-protect"
   },
   "babel": {
     "presets": [
@@ -91,5 +94,6 @@
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-react-app": "^3.1.1",
     "babel-runtime": "6.26.0"
-  }
+  },
+  "snyk": true
 }
