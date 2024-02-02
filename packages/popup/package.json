@@ -38,7 +38,7 @@
     "sweetalert2-react-content": "^1.0.1",
     "tronweb": "^2.7.4",
     "babel-core": "6.26.0",
-    "babel-eslint": "7.2.3",
+    "babel-eslint": "10.1.0",
     "babel-jest": "20.0.3",
     "babel-loader": "7.1.2",
     "babel-plugin-import": "^1.8.0",
@@ -80,7 +80,7 @@
   "devDependencies": {
     "react-app-rewired": "^2.1.1",
     "babel-core": "6.26.0",
-    "babel-eslint": "7.2.3",
+    "babel-eslint": "10.1.0",
     "babel-jest": "20.0.3",
     "babel-loader": "7.1.2",
     "babel-plugin-import": "^1.8.0",
