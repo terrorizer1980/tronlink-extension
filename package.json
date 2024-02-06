@@ -27,6 +27,6 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.1.2",
-    "yarn": "^1.13.0"
+    "yarn": "^1.22.13"
   }
 }
