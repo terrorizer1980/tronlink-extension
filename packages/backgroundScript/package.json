@@ -8,7 +8,7 @@
   "dependencies": {
     "@sentry/browser": "^4.3.4",
     "axios": "^0.18.0",
-    "bip32": "^1.0.2",
+    "bip32": "^4.0.0",
     "bip39": "^2.5.0",
     "buffer": "^5.2.1",
     "eventemitter3": "^3.1.0",
