@@ -10,8 +10,8 @@
     "lint": "npx eslint . --fix"
   },
   "dependencies": {
-    "ethers": "^4.0.33",
-    "tronweb": "^2.7.4",
-    "sunweb": "^1.0.7"
+    "ethers": "^5.0.0",
+    "tronweb": "^5.3.0",
+    "sunweb": "^1.0.8"
   }
 }
